@@ -1,1 +1,1 @@
-# recipesSaver
+# Sometimes you are looking for recipes on the web and when you like one you same it in your bokmarks. This projects is an app where the user can click on a button to sve the current webpage to an app to use it later.
